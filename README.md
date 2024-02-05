@@ -1,2 +1,3 @@
-# Hint_Screen_Timer
-An Escape Room Program made with Processing
+# The_Secret_of_the_Pen_Electronic_Systems
+
+The systems, codes and circuits that have been used during the game!
